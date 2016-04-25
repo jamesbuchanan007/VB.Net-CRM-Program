@@ -1,0 +1,2 @@
+﻿Partial Class EssentialEscapesDatabase11DataSet
+End Class
